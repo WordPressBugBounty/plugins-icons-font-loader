@@ -1,7 +1,7 @@
 === Icons Font Loader - Load Various Web Fonts & Icons on WP ===
 Tags: webfont, flaticon, icons, font, flaticon
 Contributors: bplugins, shehabulislam, abuhayat 
-Requires at least: 4.3
+Requires at least: 4.4
 Tested up to: 6.6.2
 Stable tag: 1.1.7
 Requires PHP: 7.1
