@@ -1,53 +1,53 @@
-=== Icons Font Loader – Load Web Fonts and Icon Libraries ===
+=== Icons Font Loader – use web icons anywhere on your site, fast ===
+Contributors: bplugins, abuhayat
 Tags: webfonts, flaticon, icons, font, icon fonts
-Contributors: bplugins, shehabulislam, abuhayat
-Requires at least: 4.7+
-Tested up to: 6.9
+Tested up to: 6.8
 Stable tag: 1.1.7
 Requires PHP: 7.1
+Requires at least: 4.6+
 Donate link: https://www.buymeacoffee.com/abuhayat
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Load essential Flaticon webfonts into your WordPress site. Use icons anywhere on your site with simple integration, ensuring fast performance.
+Load Flaticon webfonts into WordPress and use icons anywhere with simple HTML tags. Loads only the essential fonts for fast performance.
 
 == Description ==
 
-Icons Font Loader is a lightweight WordPress plugin that simplifies integrating Flaticon webfonts into your website. By loading only the essential icon fonts, it ensures optimal performance and minimizes unnecessary resource consumption.
+**Use beautiful Flaticon icons anywhere on your WordPress site – without slowing it down or fighting tricky manual integration.**
 
-Once integrated, you can use icons anywhere on your site with straightforward HTML tags, offering a seamless way to enhance your design. This plugin is perfect for developers and designers seeking flexibility and full control over their website's look while maintaining fast loading speeds.
+### Why Icons Font Loader?
+
+Implementing Flaticon icon fonts on a WordPress site can be tricky. **Icons Font Loader** is a lightweight plugin that simplifies the whole process: upload your Flaticon collection, and the plugin loads only the essential icon fonts, keeping your site optimized and minimizing unnecessary resource consumption.
+
+Once integrated, you can use icons anywhere on your site with straightforward HTML tags – posts, pages, widgets, menus, or custom templates. It's perfect for developers and designers who want flexibility and full control over their site's look while maintaining fast loading speeds.
 
 **Examples of usage:**
 
 **`<i class='flaticon-name'></i>`** or **`<span class='flaticon-name'></span>`**
 
-This efficient approach ensures the icon fonts blend smoothly with your website’s existing style and design, giving your site a polished, professional appearance.
+This efficient approach ensures the icon fonts blend smoothly with your website's existing style and design, giving your site a polished, professional appearance.
 
-### Icons Font Loader Features
-- **Load Only Essential Fonts:** Icons Font Loader ensures only the necessary Flaticon fonts are loaded, keeping your site lightweight and optimized for performance.
+### Free Features
 
-- **Simple Code Integration:** Easily use loaded fonts with straightforward HTML tags such as **`<i class='flaticon-name'></i>`** or **`<span class='flaticon-name'></span>`**.
+- **Load Only Essential Fonts:** Only the necessary Flaticon fonts are loaded, keeping your site lightweight and optimized for performance.
+- **Simple Code Integration:** Use loaded fonts with straightforward HTML tags such as **`<i class='flaticon-name'></i>`** or **`<span class='flaticon-name'></span>`**.
+- **Universally Usable Icons:** Add icons anywhere on your site – posts, pages, widgets, menus, or custom code.
+- **Performance Optimized:** Loads only the font files you upload, maintaining fast page speeds and a smooth user experience.
+- **Icon Preview:** Preview your uploaded icons in the plugin interface and copy the ready-made HTML code for each icon.
 
-- **Universally Usable Fonts:** Add icons anywhere on your site—posts, pages, widgets, menus, or even custom code—using flexible HTML structure.
+### How to Use
 
-- **Performance Optimized:** The plugin minimizes resource usage by loading only the essential font files you choose, maintaining fast page speeds and smooth user experience.
-
-
-### How to use Icons Font Loader
-- First, install the Icons Font Loader plugin.
-- Navigate to **Tools → Icons Font Loader** in your WordPress admin panel. Upload the ZIP file of your desired Flaticon collection.
-- Once uploaded, preview your icons in the plugin interface. Copy the example HTML code (e.g., **`<i class="flaticon-name"></i>`**) provided for each icon.
-- Paste the icon code wherever you need it on your site—inside posts, pages, widgets, menus, or custom templates.
-- Enjoy!
-
-* For installation help, click on the Installation Tab
-
+1. Install and activate the **Icons Font Loader** plugin.
+2. Navigate to **Tools → Icons Font Loader** in your WordPress admin panel.
+3. Upload the ZIP file of your desired Flaticon collection.
+4. Preview your icons in the plugin interface and copy the example HTML code (e.g. **`<i class="flaticon-name"></i>`**) provided for each icon.
+5. Paste the icon code wherever you need it – posts, pages, widgets, menus, or custom templates.
 
 ### User Feedback
 
 #### ⭐⭐⭐⭐⭐ [It just works!](https://wordpress.org/support/topic/it-just-works-743/)
 
-❛❛***I don’t know why there is no one else reviewed this plugin aside from the developer. I was skeptical at first because it was last updated 1 month ago, but this plugin has solved my 3-day struggle with using Flaticon. Their icons are awesome, but like what the developer of this plugin has said, implementing the icons on your WordPress site can be tricky.***
+❛❛***I don’t know why there is no one else reviewed this plugin aside from the developer. I was skeptical at first because it was last updated 1 month ago, but this plugin has solved my 3-day struggle with using flaticon. Their icons are awesome, but like what the developer of this plugin has said, implementing the icons onto your WordPress site can be tricky.***
 
 ***Big “THANK YOU” to this plugin for preserving my sanity.***
 
@@ -55,9 +55,7 @@ This efficient approach ensures the icon fonts blend smoothly with your website�
 
 ***-[twoguysreviews](https://wordpress.org/support/users/twoguysreviews/)***
 
-
-#### - Did you like this plugin? Dislike it? Have a feature request? [Please share your feedback with us](mailto:support@bplugins.com 'Send feedback')
-
+Did you like this plugin? Dislike it? Have a feature request? [Please share your feedback with us](mailto:support@bplugins.com 'Send feedback')
 
 ### ⭐ Check out our other WordPress Plugins-
 
@@ -75,43 +73,40 @@ This efficient approach ensures the icon fonts blend smoothly with your website�
 
 🔥 **[B Blocks](https://bblockswp.com)** – Best Gutenberg blocks collections for WordPress.
 
-
 == Installation ==
 
-### Search Plugin:
-1. Download the **Icons Font Loader** plugin (*.zip file*)
-2. In your admin area, go to the Plugins menu and click on **Add New Plugin**
-3. Search for **Icons Font Loader**. Once the plugin appears click on **Install Now**. 
-4. After install activate the plugin and Enjoy!
+**From your WordPress dashboard (recommended):**
 
-### Download & Upload:
-1. Download the **Icons Font Loader** plugin (*.zip file*)
-2. In your admin area, go to the Plugins menu and click on **Add New Plugin**
-3. Click on **Upload Plugin** and choose the **`icons-font-loader.zip`** file and click on **Install Now**
-4. Activate the plugin and Enjoy!
+1. Go to **Plugins → Add New**.
+2. Search for **"Icons Font Loader"**.
+3. Click **Install Now**, then **Activate**.
+4. Go to **Tools → Icons Font Loader** to upload your Flaticon collection.
 
-### Manually:
-1. Download and upload the **Icons Font Loader** plugin to the **`/wp-content/plugins/`** directory
-2. Activate the plugin through the Plugins menu in WordPress
+**Manual installation:**
 
+1. Download the **Icons Font Loader** plugin (*.zip file*).
+2. In your admin area, go to **Plugins → Add New**, click **Upload Plugin**, choose the `icons-font-loader.zip` file, and click **Install Now**.
+3. Or upload the plugin folder to the `/wp-content/plugins/` directory and activate it through the **Plugins** menu in WordPress.
 
 == Frequently Asked Questions ==
 
 = Can I load all Flaticon fonts? =
 The plugin focuses on loading only essential fonts to ensure optimal performance. You can select specific fonts as needed.
 
+= How do I add my Flaticon icons? =
+Navigate to **Tools → Icons Font Loader** in your admin panel and upload the ZIP file of your Flaticon collection. The plugin then shows a preview of each icon along with copy-ready HTML code.
+
 = Where can I use these icons? =
-The icons can be used anywhere HTML is accepted—posts, pages, widgets, menus, or custom templates.
+The icons can be used anywhere HTML is accepted – posts, pages, widgets, menus, or custom templates.
+
+= How do I display an icon on the page? =
+Paste the icon's HTML tag where you want it to appear, for example `<i class="flaticon-name"></i>` or `<span class="flaticon-name"></span>`.
 
 = Do I need coding knowledge to use this plugin? =
 Basic HTML knowledge is required to use the icons effectively. Simply add the `<i>` or `<span>` tags with the appropriate class.
 
 = Does this plugin affect website speed? =
-No, it’s performance-optimized and loads only the fonts you uploaded, ensuring minimal impact on speed.
-
-= Where do I report security bugs found in this plugin? =
-Please report security bugs found in the source code of the Icons Font Loader plugin through the [Patchstack Vulnerability Disclosure Program](https://patchstack.com/database/vdp/9e5fbb23-b225-4f34-a2bb-7cb0f0446de2). The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin.
-
+No, it's performance-optimized and loads only the fonts you uploaded, ensuring minimal impact on speed.
 
 == Changelog ==
 
